@@ -11,6 +11,9 @@ Researching Reddit's AITA
 - tutorial on scraping Reddit: https://github.com/TannerGilbert/Tutorials/blob/master/Reddit%20Webscraping%20using%20PRAW/Reddit%20API.ipynb
 - PRAW documentation: https://praw.readthedocs.io/en/latest/index.html
 
+## Useful technical info
+- Relation repo: https://github.com/relatio-nlp/relatio
+
 ## Literature
 - Topic Modeling for People: https://maria-antoniak.github.io/2022/07/27/topic-modeling-for-the-people.html
 
