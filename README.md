@@ -17,5 +17,8 @@ Researching Reddit's AITA
 ## Literature
 - Topic Modeling for People: https://maria-antoniak.github.io/2022/07/27/topic-modeling-for-the-people.html
 - Emotion and Reason in Political Communication: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/468192/CLE_WP_2021_02.pdf?sequence=1&isAllowed=y
+- Analyzing Gender Bias within Narrative Tropes: https://aclanthology.org/2020.nlpcss-1.23/
+- Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup: https://www.pnas.org/doi/abs/10.1073/pnas.2017154118
+- Narrative Paths and Negotiation of Power in Birth Stories: https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf
 
 
