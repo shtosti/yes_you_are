@@ -16,5 +16,6 @@ Researching Reddit's AITA
 
 ## Literature
 - Topic Modeling for People: https://maria-antoniak.github.io/2022/07/27/topic-modeling-for-the-people.html
+- Emotion and Reason in Political Communication: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/468192/CLE_WP_2021_02.pdf?sequence=1&isAllowed=y
 
 
