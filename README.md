@@ -4,6 +4,7 @@ Researching Reddit's AITA
 ## Common documentation
 - Overleaf draft: https://www.overleaf.com/project/64bd48a938f058ec9a76a882
 - Initial google doc: https://docs.google.com/document/d/13s01PPwEJsNjKH_BoCLeDkfsbka_NDdb1yWnyKrIc1A/edit#heading=h.irm24u6wl55h
+- Paper reading notes: https://docs.google.com/spreadsheets/d/1DBztF02yu1izUKKs7YqjmIh_bMR5lBYxNs49jzvk2-E/edit?usp=sharing
 
 ## Information of scraping Reddit
 - https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
